@@ -105,10 +105,10 @@ Gatsby Cloud is an end-to-end cloud platform specifically built for the Gatsby f
 
 ## 変更点
 
-1. google-analyticsの変更
-使用プラグインを[gatsby-plugin-google-analytics](https://www.gatsbyjs.com/plugins/gatsby-plugin-google-analytics/から[gatsby-plugin-google-gtag](https://www.gatsbyjs.com/plugins/gatsby-plugin-google-gtag/)に変更しています。
+1. **`google-analyticsの変更 `** 
+使用プラグインを[gatsby-plugin-google-analytics](https://www.gatsbyjs.com/plugins/gatsby-plugin-google-analytics/)から[gatsby-plugin-google-gtag](https://www.gatsbyjs.com/plugins/gatsby-plugin-google-gtag/)に変更しています。
 
-2. Fontの変更
+2. **`Fontの変更`** 
 Google Fontを採用しています。
 使用フォントは[Noto Sans JP](https://www.npmjs.com/package/@fontsource/noto-sans-jp)です。
 
